@@ -1,0 +1,4 @@
+Treatment,Reduction_mortality_rate,Reduction_recovery_time_rate,Price
+Non-ICU Beds,0.75,0.78,10794
+ICU Beds,0.39,1,45683
+Ventillator,0.6,0.68,31527
